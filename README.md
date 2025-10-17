@@ -8,7 +8,7 @@
 │  ├─ GTK3 + WebKit2GTK               │
 │  ├─ Custom URI scheme: argon://     │
 │  └─ Embedded GResource              │
-│            ↓                         │
+│            ↓                        │
 │  ┌───────────────────────────────┐  │
 │  │  Argon frontend (Vue build)   │  │
 │  │  └─ dist/                     │  │
